@@ -286,4 +286,29 @@ export const projects = [
   //     },
   //   ],
   // },
+  // {
+  //   id: "none",
+  //   title: "",
+  //   date: "",
+  //   description: "",
+  //   image: "",
+  //   tags: ["", "", ""],
+  //   category: "full stack",
+  //   github: "",
+  //   webapp: "",
+  //   member: [
+  //     {
+  //       name: "",
+  //       img: "",
+  //       linkedin: "",
+  //       github: "",
+  //     },
+  //     {
+  //       name: "",
+  //       img: "",
+  //       linkedin: "",
+  //       github: "",
+  //     },
+  //   ],
+  // },
 ];
