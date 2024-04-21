@@ -1,7 +1,4 @@
-Local:    http://localhost:3000        │
-Network:  http://192.168.31.107:3000 
-
-serve -s build
+hosted link:- https://portfolio-phi-two-55.vercel.app/
 
 
 # Getting Started with Create React App
