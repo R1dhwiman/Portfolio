@@ -205,7 +205,8 @@ export const projects = [
     id: 0,
     title: "TO-DO List",
     date: "Feb 2024",
-    description: "This simple yet powerful application helps you organize your tasks efficiently, ensuring you stay on top of your daily activities. Developed using HTML, CSS, and JavaScript, this ToDo List App provides a seamless user experience with intuitive design and smooth functionality.",
+    description:
+      "This simple yet powerful application helps you organize your tasks efficiently, ensuring you stay on top of your daily activities. Developed using HTML, CSS, and JavaScript, this ToDo List App provides a seamless user experience with intuitive design and smooth functionality.",
     image: "https://i.ibb.co/z4syLzw/To-Do-list.png",
     tags: ["HTML", "CSS", "JavaScript"],
     category: "front end",
@@ -216,7 +217,8 @@ export const projects = [
     id: 1,
     title: "Stop Watch",
     date: "Feb 2024",
-    description: "This project is a simple stopwatch developed using HTML, CSS, and JavaScript. It allows users to start, stop, and reset the stopwatch.",
+    description:
+      "This project is a simple stopwatch developed using HTML, CSS, and JavaScript. It allows users to start, stop, and reset the stopwatch.",
     image: "https://i.ibb.co/swY719X/stopwatch.png",
     tags: ["HTML", "CSS", "JavaScript"],
     category: "front end",
@@ -239,14 +241,26 @@ export const projects = [
     id: 3,
     title: "NetFlix Clone",
     date: "Dec 2023",
-    description: "This project aims to recreate the popular streaming platform Netflix using modern web technologies. The application provides a user-friendly interface for browsing and streaming movies and TV shows.",
+    description:
+      "This project aims to recreate the popular streaming platform Netflix using modern web technologies. The application provides a user-friendly interface for browsing and streaming movies and TV shows.",
     image: "https://i.ibb.co/hsqv3ym/Net-Flix-Clone.png",
-    tags: ["JavaScript", "CSS", "React","Redux","TMDB API"],
+    tags: ["JavaScript", "CSS", "React", "Redux", "TMDB API"],
     category: "front end",
     github: "https://github.com/R1dhwiman/netflix_clone.git",
     webapp: "https://netflix-clone-f5cc3.web.app/",
   },
-  
+
+  {
+    id: 4,
+    title: "PhonePe Payment gateway",
+    date: "April 2024",
+    description: "PhonePe APi integration backend with payment",
+    image: "",
+    tags: ["node.js", "PhonePe API", "javaScript"],
+    category: "back end",
+    github: "",
+    webapp: "",
+  },
   // {
   //   id: "none",
   //   title: "",
@@ -273,4 +287,3 @@ export const projects = [
   //   ],
   // },
 ];
-
