@@ -1,3 +1,9 @@
+Local:    http://localhost:3000        │
+Network:  http://192.168.31.107:3000 
+
+serve -s build
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
