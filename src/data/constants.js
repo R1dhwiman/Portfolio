@@ -100,11 +100,6 @@ export const skills = [
           "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
       },
       {
-        name: "Claude AI",
-        image:
-          "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png",
-      },
-      {
         name: "VS Code",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
@@ -113,11 +108,6 @@ export const skills = [
         name: "MS Office",
         image:
           "https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png",
-      },
-      {
-        name: "Chat GPT",
-        image:
-          "https://www.iconpacks.net/icons/free-icons-6/free-chatgpt-green-circular-logo-icon-22057-thumb.png",
       },
     ],
   },
