@@ -12,7 +12,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/R1dhwiman",
   resume:
-    "https://drive.google.com/file/d/1KQ_Eo9aESW0TA7byfKDViJkhfbyzo0l6/view?usp=sharing",
+    "https://drive.google.com/file/d/1P-UgZsxkSusMO-ehhd65GJenanU2ReLb/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ridhwimanroy/",
   insta: "https://www.instagram.com/ridhwiman_roy/",
   facebook: "https://www.facebook.com/ridhwiman.roy?mibextid=LQQJ4d/",
